@@ -1,4 +1,4 @@
-# Real Estate Investment Heatmap 🏙️
+# Real Estate Investment Heatmap 
 
 Interactive map that helps property investors identify the best neighborhoods
 to buy in, based on real market data from Valencia, Spain.
