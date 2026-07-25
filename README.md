@@ -5,6 +5,13 @@ to buy in, based on real market data from Valencia, Spain.
 
 ![Sale price map](screenshots/sale_price.png)
 
+## Related project
+
+This heatmap is complemented by an AI valuation engine that estimates the price
+of a specific property using machine learning:
+**[ai-real-estate-valuation](https://github.com/ouassim-elkoutbi/ai-real-estate-valuation)**.
+Together they form a complete real estate analysis workflow.
+
 ## What it does
 
 For each of Valencia's 70 neighborhoods, the tool displays four investment
